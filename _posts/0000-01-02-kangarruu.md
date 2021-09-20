@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The plural of anecdote is not data" 
 Use the left arrow to go back!
